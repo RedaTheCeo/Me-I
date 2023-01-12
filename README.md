@@ -24,7 +24,7 @@
 </div>
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/RedaTheCeo/Me-I/resumes/resume2k23.pdf)
+- :paperclip: [My Resume/CV](https://github.com/RedaTheCeo/Me-I/blob/main/resumes/resume2k23.pdf)
 - :email: ridabenassila@gmail.com
 
 
